@@ -1,5 +1,5 @@
 <h1 align="center">Progetto recupero info User random</h1>
-<p align="center">Recupero dati con una API chiamata Fetch Asincrona , dopo di che visualizzo le informazioni tramite il click sul bottone selezione. Utlizzo di CSS e Js(Script scomposti)</p>
+<p align="center">Recupero dati con una API chiamata Fetch Asincrona , dopo di che visualizzo le informazioni tramite il click sul bottone selezione. Utlizzo di CSS e Js.</p>
 <img src="https://github.com/jacopoallori/Random-User/blob/master/UserRandomIMG.png" alt="HomePage UserRandom">
 <div align="center">
 <h3>Languages and Tools:</h3>
